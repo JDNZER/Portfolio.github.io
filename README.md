@@ -1,2 +1,2 @@
-# Portfolio.github.io
-My portfolio website https://jdnzer.github.io/Portfolio.github.io/
+# My portfolio website
+url: https://jdnzer.github.io/Portfolio.github.io/
